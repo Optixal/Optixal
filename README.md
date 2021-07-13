@@ -3,7 +3,7 @@
 
 <h1></h1>
 
-<img align="right" src="https://user-images.githubusercontent.com/19287477/125495213-d3c7a18a-cbb2-4466-9574-837929796b25.png" width="300">
+<img align="right" src="https://user-images.githubusercontent.com/19287477/125498588-53680efb-d380-4fcd-a61c-5742152716a4.png" width="250">
 
 ```sh
 Last login: Tue Jul 13 23:46:08 2021 from 10.1.33.7
