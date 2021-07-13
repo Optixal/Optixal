@@ -1,4 +1,21 @@
+
 ![Nightlife in Singapore - Imgur, animation by orboloops8](https://user-images.githubusercontent.com/19287477/99057153-58eba780-25d6-11eb-8033-88c5bd0bd7fe.gif)
 
-<h1 align="center"><pre><code>> hello world, i'm shawn</pre></code></h1>
-<p align="center">:triangular_flag_on_post: cybersec :computer: programming :chart_with_upwards_trend: crypto :keyboard: keeb :black_nib: vim enthusiast<br/>[ Based in 🇸🇬 ]</p>
+<h1></h1>
+
+<img align="right" src="https://user-images.githubusercontent.com/19287477/125495213-d3c7a18a-cbb2-4466-9574-837929796b25.png" width="300">
+
+```sh
+Last login: Tue Jul 13 23:46:08 2021 from 10.1.33.7
+
+$ echo "hello world, im $(whoami)."
+hello world, im shawn.
+
+$ ls ~/interests
+🚩 cybersec  💻 programming  📈 crypto  ⌨️ keeb  ✒️ vim
+
+$ head -1 /etc/hosts
+127.0.0.1 localhost singapore
+
+$ ^D
+```
