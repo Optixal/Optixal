@@ -1,8 +1,6 @@
 
 ![Nightlife in Singapore - Imgur, animation by orboloops8](https://user-images.githubusercontent.com/19287477/99057153-58eba780-25d6-11eb-8033-88c5bd0bd7fe.gif)
 
-<h1></h1>
-
 <img align="right" src="https://user-images.githubusercontent.com/19287477/126031408-6a1d46eb-07dc-4417-8133-d4a74d1d9b8d.gif" width="360">
 
 ```sh
