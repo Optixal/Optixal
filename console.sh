@@ -5,7 +5,7 @@ echo
 echo '$ echo "hello world, im $(whoami). this shell is live"'
 echo 'hello world, im shawn. this shell is live'
 echo
-echo '$ ls interests'
+echo '$ ls ~/interests'
 echo `ls interests`
 echo
 echo '$ head -1 /etc/hosts'
