@@ -3,10 +3,10 @@
 <img align="right" src="https://user-images.githubusercontent.com/19287477/126031581-0d0086f6-2af8-4ab9-af53-a9a222eac0a3.gif" width="360">
 
 ```sh
-Last login: Fri, 05 Nov 2021 at 04:43:04 +08 from 10.1.33.7
+Last login: Fri, 05 Nov 2021 at 04:50:36 +08 from 10.1.33.7
 
-$ echo "hello world, im $(whoami). this shell is live"
-hello world, im shawn. this shell is live
+$ echo "hello world, im $(whoami)."
+hello world, im shawn.
 
 $ ls ~/interests
 💻 code 📈 crypto 🚩 cybersec 🥽 vr ⌨️ keeb ✒️ vim
@@ -14,5 +14,5 @@ $ ls ~/interests
 $ head -1 /etc/hosts
 127.0.0.1 localhost 🇸🇬 singapore
 
-$ ^D
+$ # change is the only constant. ^U^D
 ```
