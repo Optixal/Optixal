@@ -1,0 +1,24 @@
+name: Run console
+
+on:
+  schedule:
+    - cron:  '*/5 * * * *'
+  workflow_dispatch:
+
+jobs:
+  console:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Run "console"
+        run: |
+          sudo timedatectl set-timezone Asia/Singapore
+          chmod 754 console.sh
+          cp base.md README.md
+          ./console.sh | tee -a README.md
+          echo '```' >> README.md
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git commit -m "Run console"
+          git push
