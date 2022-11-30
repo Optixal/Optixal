@@ -3,13 +3,13 @@
 <img align="right" src="https://user-images.githubusercontent.com/19287477/126031581-0d0086f6-2af8-4ab9-af53-a9a222eac0a3.gif" width="365">
 
 ```sh
-Last login: Wed, 30 Nov 2022 at 22:00:26 +08 from 10.1.33.7
+Last login: Wed, 30 Nov 2022 at 22:10:25 +08 from 10.1.33.7
 
 $ echo "hello world, im $(whoami)."
 hello world, im shawn.
 
 $ ls ~/interests
-🌐 3d 💻 code 🌕 crypto 🚩 cyber 🖼 nft 🥽 vr ☁️ cloud ✒️ vim
+☁️ cloud ✒️ vim 🌐 3d 🌕 crypto 💻 code 🖼 nft 🚩 cyber 🥽 vr
 
 $ head -1 /etc/hosts
 127.0.0.1 localhost 🇸🇬 singapore
