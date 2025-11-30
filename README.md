@@ -3,7 +3,7 @@
 <img align="right" src="https://github.com/user-attachments/assets/db0e132c-c639-4d68-8e5a-21cf84dd63c1" width="365">
 
 ```sh
-Last login: Sun, 30 Nov 2025 at 08:22:18 +08 from 10.1.33.7
+Last login: Sun, 30 Nov 2025 at 09:33:07 +08 from 10.1.33.7
 
 $ echo "hello world, im $(whoami)."
 hello world, im shawn.
